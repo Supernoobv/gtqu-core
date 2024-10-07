@@ -1,0 +1,71 @@
+# other
+metaitem.blinding_glowstone.name=Blinding Glowstone
+metaitem.ultradense_powder.name=Ultradense Powder
+
+
+# Shehitah
+metaitem.botathaumahaemic_sentient_diode.name=Botathaumahaemic Sentient Diode
+metaitem.botathaumahaemic_sentient_hivemind_cell.name=Botathaumahaemic Sentient Hivemind Cell
+metaitem.botathaumahaemic_sentient_hivemind.name=Botathaumahaemic Sentient Hivemind
+
+
+# Tiferet
+metaitem.constellationattuned_diastrode.name=Constellation-Attuned Diastrode
+metaitem.astrothaumic_constellationattuned_archive.name=Astrothaumic Constellation-Attuned Archive
+
+
+# Gevurah
+metaitem.astrothaumamanic_constellationlinked_repository.name=Astrothaumamanic Constellation-Linked Repository
+
+
+# UEV
+metaitem.sparkschrabidic_epoxy_resin_sheet.name=Spark-Schrabidic Epoxy Resin Sheet
+metaitem.sparkschrabidic_circuit_board.name=Spark-Schrabidic Circuit Board
+metaitem.hyperconducting_antischrabidic_circuit.name=Hyper-Conducting Antischrabidic Processor
+metaitem.hyperconducting_antischrabidic_assembly.name=Hyper-Conducting Antischrabidic Assembly
+metaitem.hyperconducting_antischrabidic_computer.name=Hyper-Conducting Antischrabidic Computer
+metaitem.hyperconducting_antischrabidicprocessor_mainframe.name=Hyper-Conducting Antischrabidic Mainframe
+
+
+# UIV
+metaitem.stringentangled_epoxy_resin_sheet.name=String-Entangled Epoxy Resin Sheet
+metaitem.stringentangled_circuit_board.name=String-Entangled Circuit Board
+metaitem.stringentangled_circuit.name=String-Entangled Processor
+metaitem.stringentangled_assembly.name=String-Entangled Assembly
+metaitem.stringentangled_computer.name=String-Entangled Computer
+metaitem.stringentangled_mainframe.name=String-Entangled Mainframe
+metaitem.string_of_iris.name=String Of Iris
+metaitem.string_of_kuzu.name=String Of Kuzu
+metaitem.string_of_hawking.name=String Of Hawking
+metaitem.string_of_stradivari.name=String Of Stradivari
+
+
+# UMV
+metaitem.exotic_circuit.name=Exotic Processor
+metaitem.exotic_assembly.name=Exotic Assembly
+metaitem.exotic_computer.name=Exotic Computer
+metaitem.exotic_mainframe.name=Exotic Mainframe
+metaitem.exotic_epoxy_resin_sheet.name=Exotic Epoxy Resin Sheet
+metaitem.exotic_circuit_board.name=Exotic Circuit Board
+
+# OpV
+metaitem.superpositionlinked_particles.name=Superposition-Linked Particles
+metaitem.superpositionlinked_circuit.name=Superposition-Linked Processor
+metaitem.superpositionlinked_assembly.name=Superposition-Linked Assembly
+metaitem.superpositionlinked_computer.name=Superposition-Linked Computer
+metaitem.superpositionlinked_mainframe.name=Superposition-Linked Mainframe
+metaitem.superpositionlinked_epoxy_resin_sheet.name=Superposition-Linked Epoxy Resin Sheet
+metaitem.superpositionlinked_circuit_board.name=Superposition-Linked Circuit Board
+
+# MAX
+metaitem.absolute_metaitem.name=A Certain Couch Family
+metaitem.absolute_circuit.name=Absolute Processor
+metaitem.absolute_assembly.name=Absolute Assembly
+metaitem.absolute_computer.name=Absolute Computer
+metaitem.absolute_mainframe.name=Absolute Mainframe
+metaitem.absolute_epoxy_resin_sheet.name=Absolute Epoxy Resin Sheet
+metaitem.absolute_circuit_board.name=Absolute Circuit Board
+
+# Machines
+
+gtqucore.machine.quantum_string_determinator.name=Quantum String Determinator
